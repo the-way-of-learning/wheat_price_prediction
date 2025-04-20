@@ -6,7 +6,7 @@ set -e
 
 # Print timestamp and heading
 echo "===== Wheat Price Prediction System Deployment ====="
-echo "Starting deployment at $(date)"
+echo "Starting deployment at $(date) "
 
 # Update system and install dependencies
 echo "===== Installing system dependencies ====="
